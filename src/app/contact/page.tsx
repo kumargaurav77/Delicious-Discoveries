@@ -48,7 +48,7 @@ function ContactUs() {
         Send Us a Message
         </h1>
         <p className="text-neutral-500 max-w-lg mx-auto my-2 text-sm  ">
-        Got a question? Want to enroll in a class? Just want to say hi? Fill out the form below and we'll get back to you as soon as possible!
+        Got a question? Want to enroll in a class? Just want to say hi? Fill out the form below and we will get back to you as soon as possible!
         </p>
         <form onSubmit={handleSubmit} className="space-y-4 mt-4">
           <input
