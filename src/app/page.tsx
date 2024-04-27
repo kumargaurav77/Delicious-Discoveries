@@ -1,3 +1,4 @@
+'use client'
 import AvailableCourses from "@/components/AvailableCourses";
 import Instructors from "@/components/Instructors";
 import MoreAboutCourse from "@/components/MoreAboutCourse";
