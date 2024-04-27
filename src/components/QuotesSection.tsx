@@ -29,7 +29,8 @@ function QuotesSection() {
   return (
 
     <div className="h-[50rem] w-full dark:bg-black bg-white  dark:bg-dot-white/[0.2] bg-dot-black/[0.2] relative flex flex-col items-center justify-center overflow-hidden">
-        <h2 className="text-3xl font-bold text-center mb-20 z-10">Kitchen Chronicles: Sizzling Success Stories in Flavor</h2>
+        <h2 className="text-3xl font-bold text-center m-auto mr-1 ml-1 mb-20 z-10">
+          Kitchen Chronicles: Sizzling Success Stories in Flavor</h2>
         <div className="flex justify-center w-full overflow-hidden px-4 sm:px-6 lg:px-8">
             <div className="w-full max-w-6xl">
             <InfiniteMovingCards
