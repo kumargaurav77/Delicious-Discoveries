@@ -1,0 +1,148 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Essential Cooking Techniques",
+      "description": "Master the fundamental cooking techniques including chopping, sautéing, roasting, and more.",
+      "instructor": "Chef Michael Johnson",
+      "price": 99.99,
+      "duration": "8 weeks",
+      "level": "Beginner",
+      "image": "essential_cooking_techniques.jpg",
+      "enroll_url": "https://media.istockphoto.com/id/683264812/photo/chef-preparing-cuisine-in-hotel-kitchen.jpg?s=1024x1024&w=is&k=20&c=kGB86Hs1xaLGxUZ4CWb6OsvyI079CGam6Opjl59ifko=",
+      "isFeatured": true
+    },
+    {
+      "id": 2,
+      "title": "Artisan Bread Making",
+      "description": "Learn the secrets of crafting artisan breads from scratch, including sourdough, baguettes, and ciabatta.",
+      "instructor": "Chef Emily Lee",
+      "price": 119.99,
+      "duration": "10 weeks",
+      "level": "Intermediate",
+      "image": "artisan_bread_making.jpg",
+      "enroll_url": "https://media.istockphoto.com/id/1299566263/photo/a-baker-dusting-flour-on-a-dough-to-make-bread.jpg?s=1024x1024&w=is&k=20&c=q2ovw1ftIjO1j1r3qHIpvGsceulGDw33a2qgW8hE0zQ=",
+      "isFeatured": true
+    },
+    {
+      "id": 3,
+      "title": "International Cuisine",
+      "description": "Embark on a culinary journey around the world and explore the flavors of various international cuisines.",
+      "instructor": "Chef David Smith",
+      "price": 129.99,
+      "duration": "12 weeks",
+      "level": "Intermediate/Advanced",
+      "image": "international_cuisine.jpg",
+      "enroll_url": "https://media.istockphoto.com/id/157640269/photo/earth-served-on-plate-food-globe-planet-world-restaurant.jpg?s=1024x1024&w=is&k=20&c=ZM85vWPleVni79Uv5dxuuwc0zKM4gzP0M-dMqbXQoLM=",
+      "isFeatured": true
+    },
+    {
+      "id": 4,
+      "title": "Pastry and Dessert Making",
+      "description": "Indulge your sweet tooth and learn the art of crafting exquisite pastries and desserts.",
+      "instructor": "Chef Sarah Brown",
+      "price": 109.99,
+      "duration": "8 weeks",
+      "level": "Intermediate",
+      "image": "pastry_and_dessert_making.jpg",
+      "enroll_url": "https://media.istockphoto.com/id/874492906/photo/a-confectioner-with-a-cake-in-the-bakery.jpg?s=1024x1024&w=is&k=20&c=gp9rzRa8y8nBx-ajaQJCVZrUhEfVkkLJa3_YohNk1Ao=",
+      "isFeatured": false
+    },
+    {
+      "id": 5,
+      "title": "Vegetarian and Vegan Cooking",
+      "description": "Discover the versatility of vegetarian and vegan cuisine with creative and delicious plant-based recipes.",
+      "instructor": "Chef Anna White",
+      "price": 99.99,
+      "duration": "6 weeks",
+      "level": "Beginner/Intermediate",
+      "image": "vegetarian_and_vegan_cooking.jpg",
+      "enroll_url": "https://media.istockphoto.com/id/485286424/photo/happy-friends-and-chef-cook-cooking-in-kitchen.jpg?s=1024x1024&w=is&k=20&c=cYhEQMFQKDPKoau8PwNSa1gPS0BesZzUXbvDf8BJWXo=",
+      "isFeatured": true
+    },
+    {
+      "id": 6,
+      "title": "Advanced Culinary Techniques",
+      "description": "Take your culinary skills to the next level with advanced techniques in plating, flavor pairing, and molecular gastronomy.",
+      "instructor": "Chef John Davis",
+      "price": 149.99,
+      "duration": "10 weeks",
+      "level": "Advanced",
+      "image": "advanced_culinary_techniques.jpg",
+      "enroll_url": "https://media.istockphoto.com/id/1395560023/photo/cooks-in-kitchen-having-competition-in-plate-decoration.jpg?s=1024x1024&w=is&k=20&c=LHG5sRSpdRcTwlAjgomcR6ILJYAmSPoYL9J12fCbWfk=",
+      "isFeatured": false
+    },
+    {
+      "id": 7,
+      "title": "Gourmet Pizza Making",
+      "description": "Delve into the art of crafting gourmet pizzas with fresh ingredients and innovative toppings.",
+      "instructor": "Chef Maria Garcia",
+      "price": 89.99,
+      "duration": "6 weeks",
+      "level": "Beginner/Intermediate",
+      "image": "gourmet_pizza_making.jpg",
+      "enroll_url": "https://media.istockphoto.com/id/1063976282/photo/chef-takes-out-a-hot-pizza-from-the-oven.jpg?s=1024x1024&w=is&k=20&c=H7kV0lc2YLDxVEICF6cDoDTARlKU9nly3n-_sWxU84o=",
+      "isFeatured": false
+    },
+    {
+      "id": 8,
+      "title": "Asian Street Food",
+      "description": "Explore the vibrant flavors of Asian street food classics, from dumplings to noodles to bao buns.",
+      "instructor": "Chef Kenji Tanaka",
+      "price": 109.99,
+      "duration": "8 weeks",
+      "level": "Intermediate",
+      "image": "asian_street_food.jpg",
+      "enroll_url": "https://media.istockphoto.com/id/1664864517/photo/confident-woman-making-pad-thai-in-a-wok-at-a-street-market-in-the-old-city-of-thailand.jpg?s=1024x1024&w=is&k=20&c=x3wDZMMvefk1b-qE7RB-qBMTxkYzW_YR3rrl4KHxJWI=",
+      "isFeatured": true
+    },
+    {
+      "id": 9,
+      "title": "Farm-to-Table Cooking",
+      "description": "Learn to create delicious and sustainable meals using fresh, locally sourced ingredients.",
+      "instructor": "Chef Rachel Miller",
+      "price": 119.99,
+      "duration": "10 weeks",
+      "level": "Intermediate/Advanced",
+      "image": "farm_to_table_cooking.jpg",
+      "enroll_url": "https://media.istockphoto.com/id/1557057249/photo/group-of-female-friends-in-a-cooking-class.jpg?s=1024x1024&w=is&k=20&c=uFQKigtjTTrIDlwOQSB6X46yfIuynE_BVtZ4Hz_qHog=",
+      "isFeatured": false
+    },
+    {
+      "id": 10,
+      "title": "Cake Decorating Masterclass",
+      "description": "Unlock the secrets of professional cake decorating techniques and create stunning edible works of art.",
+      "instructor": "Chef Emma Wilson",
+      "price": 129.99,
+      "duration": "8 weeks",
+      "level": "Intermediate",
+      "image": "cake_decorating_masterclass.jpg",
+      "enroll_url": "https://media.istockphoto.com/id/1125200728/photo/confectioner-cuts-dacquoise-cake-in-mirrored-glaze.jpg?s=1024x1024&w=is&k=20&c=5Cg1g5KyCBOaVv6hC-eLhbszTV3kCd5W-Cjn1-bfbio=",
+      "isFeatured": false
+    },
+    {
+      "id": 11,
+      "title": "Mediterranean Cuisine",
+      "description": "Immerse yourself in the sun-drenched flavors of Mediterranean cuisine, from Greek souvlaki to Spanish paella.",
+      "instructor": "Chef Antonio Rossi",
+      "price": 99.99,
+      "duration": "6 weeks",
+      "level": "Beginner/Intermediate",
+      "image": "mediterranean_cuisine.jpg",
+      "enroll_url": "https://media.istockphoto.com/id/1256091618/photo/happy-man-ready-to-cook.jpg?s=1024x1024&w=is&k=20&c=EkPEOhBdLJpvG0K_aI_6f5liSRCVgGKqaRSF6eY-Qts=",
+      "isFeatured": true
+    },
+    {
+      "id": 12,
+      "title": "Sushi Making Workshop",
+      "description": "Discover the art of sushi making with expert techniques for rolling sushi, preparing sushi rice, and mastering sushi knife skills.",
+      "instructor": "Chef Yuki Tanaka",
+      "price": 139.99,
+      "duration": "8 weeks",
+      "level": "Intermediate",
+      "image": "sushi_making_workshop.jpg",
+      "enroll_url": "https://media.istockphoto.com/id/1067764864/photo/detail-of-hands-of-woman-chef-rolling-up-japanese-sushi.jpg?s=1024x1024&w=is&k=20&c=EvWCs2kNgM53mNzo7-0atzW8jLlBOOA96-AxBupfF0E=",
+      "isFeatured": false
+    }
+  ]
+}
